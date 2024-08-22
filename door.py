@@ -106,6 +106,7 @@ class Door:
 
 """
 nur für die korrekte Übersetzung und Ausführung 
+
 """
 
 
